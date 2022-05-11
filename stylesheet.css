@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+div {
+  margin-left: 25px;
+}
+
+.list {
+  color: blue;
+}
+
+.head-style {
+  text-align: center;
+  color: red;
+  font-size: 3rem;
+}
+
+#theButton {
+  margin-left: 25px;
+}
